@@ -1,0 +1,38 @@
+body{
+  background-color: skyblue;
+  font-family: cursive;
+}
+img{
+  width: 150px;
+  height: 180px;
+  border-radius: 50%;
+}
+.container{
+  background-color: yellow;
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  margin-top:10px;
+  border-radius:40px;
+}
+.btn{
+  background-color: skyblue;
+  padding: 10px;
+  color: navy;
+  font-family: sans-serif;
+  cursor: pointer;
+  border: 5px blue double;
+  border-radius: 10px;
+}
+.btn:hover{
+  background-color: palegreen;
+  color: black;
+}
+li{
+    font-family: cursive;
+    font-size: 30px;
+    color: purple;
+}
+ul{
+  list-style-type: none;
+}
